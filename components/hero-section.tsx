@@ -15,7 +15,7 @@ export function HeroSection({ onRegisterClick }: HeroSectionProps) {
 
   useEffect(() => {
     setLoaded(true)
-    const eventDate = new Date("2026-04-15T09:00:00")
+    const eventDate = new Date("2026-03-27T09:00:00")
 
     const update = () => {
       const now = new Date()
