@@ -118,7 +118,7 @@ export function HeroSection({ onRegisterClick }: HeroSectionProps) {
           style={{ fontFamily: "var(--font-inter), sans-serif" }}
         >
           {[
-            { icon: Calendar, text: "April 03 and 04, 2026", color: "text-neon-cyan", delay: 900 },
+            { icon: Calendar, text: "March 27 and 28, 2026", color: "text-neon-cyan", delay: 900 },
             { icon: MapPin, text: "RVS CET, Coimbatore", color: "text-neon-green", delay: 1000 },
             { icon: Users, text: "500+ Participants", color: "text-neon-orange", delay: 1100 },
           ].map((item) => (

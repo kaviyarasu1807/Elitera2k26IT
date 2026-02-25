@@ -67,12 +67,12 @@ export function RegistrationModal({ isOpen, onClose }: RegistrationModalProps) {
             <div className="mb-8 text-center pr-8">
               <p className="mb-2 text-xs font-semibold uppercase tracking-[0.3em] text-neon-green">Join Us</p>
               <h2 className="mb-2 text-3xl font-bold tracking-tight text-foreground sm:text-4xl"><span className="text-neon-green">Register</span> Now</h2>
-              <p className="text-sm leading-relaxed text-muted-foreground" style={{ fontFamily: "var(--font-inter), sans-serif" }}>Secure your spot at TECHMARA 2026</p>
+              <p className="text-sm leading-relaxed text-muted-foreground" style={{ fontFamily: "var(--font-inter), sans-serif" }}>Secure your spot at ELITERA 2026</p>
             </div>
 
             <div className="rounded-xl border border-border/50 bg-secondary/10 p-6 sm:p-8">
               <div className="flex flex-col items-center justify-center py-8">
-                <h3 className="mb-4 text-lg font-bold text-foreground flex items-center gap-2"><Sparkles className="h-5 w-5 text-neon-cyan" />Register for TECHMARA 2026</h3>
+                <h3 className="mb-4 text-lg font-bold text-foreground flex items-center gap-2"><Sparkles className="h-5 w-5 text-neon-cyan" />Register for ELITERA 2026</h3>
                 <p className="mb-6 max-w-md text-center text-sm leading-relaxed text-muted-foreground" style={{ fontFamily: "var(--font-inter), sans-serif" }}>Click below to complete registration via Google Forms.</p>
 
                 <div className="mt-4 flex items-center justify-center">
