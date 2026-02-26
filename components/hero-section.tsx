@@ -145,7 +145,7 @@ export function HeroSection({ onRegisterClick }: HeroSectionProps) {
           ].map((item) => (
             <div
               key={item.label}
-              className={`group flex flex-col items-center rounded-xl border border-border bg-card/60 px-5 py-4 backdrop-blur-sm box-glow-cyan min-w-[80px] hover-lift card-neon-border transition-all duration-700 ${
+              className={`group flex flex-col items-center rounded-xl border border-bonprder bg-card/60 px-5 py-4 backdrop-blur-sm box-glow-cyan min-w-[80px] hover-lift card-neon-border transition-all duration-700 ${
                 loaded ? "opacity-100 scale-100" : "opacity-0 scale-75"
               }`}
               style={{ transitionDelay: `${item.delay}ms` }}

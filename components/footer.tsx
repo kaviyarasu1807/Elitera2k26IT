@@ -69,7 +69,7 @@ export function Footer() {
                 </div>
                 <div className="group flex items-start gap-3 text-sm text-muted-foreground transition-colors hover:text-foreground">
                   <MapPin className="h-4 w-4 text-neon-orange shrink-0 mt-0.5 transition-transform duration-300 group-hover:scale-125 group-hover:animate-bounce-soft" />
-                  <span>RVS CET,Kannampalayam, Coimbatore - 641402</span>
+                  <span>RVS CET,Kannampalayam,Sulur, Coimbatore - 641402</span>
                 </div>
               </div>
             </div>
@@ -80,7 +80,7 @@ export function Footer() {
           <div className="mt-12 border-t border-border pt-8 flex flex-col items-center gap-6">
             <div className="flex flex-col items-center gap-2 sm:flex-row sm:justify-between w-full">
               <p className="text-xs text-muted-foreground" style={{ fontFamily: "var(--font-inter), sans-serif" }}>
-                {"© 2026 TECHMARA. RVS College of Engineering and Technology. All rights reserved."}
+                {"© 2026 ELITERA. RVS College of Engineering and Technology. All rights reserved."}
               </p>
               <p className="text-xs text-muted-foreground" style={{ fontFamily: "var(--font-inter), sans-serif" }}>
                 Department of Information Technology
